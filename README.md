@@ -9,6 +9,6 @@ PonPonPet 的官方電腦列印助手下載區。此處只提供已發布的安�
 - 關閉助手視窗後仍在選單列執行；需要結束時，請在助手內選擇「結束列印助手」。
 - 每份列印文件仍須在本機預覽並確認。助手不會另開發票；發票沿用已開立文件。
 - 實際紙張、切紙與輸出格式依印表機及其驅動程式而定，請先測試。
-- Windows Store 版本尚待審查，本區不提供未簽署 Windows 安裝檔。
+- Windows：請從 Microsoft Store 安裝，之後會由 Store 自動更新；本區不提供未簽署的 Windows 安裝檔。
 
 官方網站：[PonPonPet](https://www.ponponpet.com/)
